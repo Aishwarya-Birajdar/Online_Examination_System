@@ -19,3 +19,10 @@ out/
 .vscode/
 bin/
 out/
+*.class
+*.log
+*.jar
+.idea/
+.vscode/
+bin/
+out/
